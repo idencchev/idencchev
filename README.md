@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Denchev</h1>
 <h3 align="center">A passionate Full-Stack Developer.</h3>
 
-- 🔭 I’m currently working at [PROS, Inc](https://pros.com/)
-
 - 🌱 I’m currently learning **Docker, Kubernetes, Helm, Microservices, PostgreSQL, GoLang**
-
-- 📫 How to reach me **idenchev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
